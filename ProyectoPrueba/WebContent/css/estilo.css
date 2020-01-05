@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/*Regla para el diseño del título.*/
+body{
+	background-color: #A9BCF5;
+}
+
+h1{
+	font-family: Arial;
+	font-weight: bolder;
+	text-align: center;
+	color: white;
+}
+
+img{
+	height: 100px;
+	width: 50%;
+	float: left;
+	margin-left: 25%;
+	margin-right: 25%;
+}
