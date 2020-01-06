@@ -8,5 +8,9 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.21.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/postgresql-42.2.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/sqljdbc42.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
